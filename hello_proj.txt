@@ -1,2 +1,3 @@
 print ("Hello world");
 print ("Kak dela???");
+print ("Vse budet horosho");
