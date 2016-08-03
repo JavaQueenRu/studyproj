@@ -3,3 +3,6 @@ print ("Kak dela???");
 print ("Vse budet horosho");
 print ("Pa param param");
 print ("Preved Medved");
+print ("Preved Volk");
+print ("Preved Lisa");
+print ("Kot");
